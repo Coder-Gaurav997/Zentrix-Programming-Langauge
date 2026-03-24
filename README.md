@@ -43,13 +43,13 @@ for (i in 0 to 3) {
 
 ## 📁 Structure
 
-zentrix/
+zentrix/  
 │── lexer.py  
 │── parser.py  
 │── ast_nodes.py  
 │── interpreter.py  
 │── main.py  
-|── test.zx  
+|── test.zx
 
 ---
 
